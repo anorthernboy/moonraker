@@ -1,0 +1,11 @@
+.set-button {
+  display: inline;
+  text-align: center;
+  margin: 1%;
+}
+
+.set-button-text {
+  margin: 0;
+  padding: 2%;
+  color: rgb(40, 54, 59);
+}

@@ -1,0 +1,19 @@
+.outer-grid {
+  padding: 2%;
+  text-align: center;
+}
+
+.set-grid-size {
+  width: 350px;
+  padding: 2%;
+  padding-top: 0.25%;
+  text-align: center;
+  display: inline-block;
+}
+
+.grid-selector {
+  display: flex;
+  justify-content: center;
+  padding: 2%;
+  margin: 0;
+}

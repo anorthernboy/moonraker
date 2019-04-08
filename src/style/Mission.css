@@ -1,0 +1,14 @@
+.mission-grid-size {
+  width: 350px;
+  padding: 2%;
+  padding-top: 0.25%;
+  text-align: center;
+  display: inline-block;
+}
+
+.mission-coordinates {
+  padding: 2%;
+  padding-top: 0.25%;
+  display: flex;
+  justify-content: center;
+}

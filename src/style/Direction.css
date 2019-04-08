@@ -1,0 +1,17 @@
+.direction-grid-size {
+  width: 350px;
+  padding: 2%;
+  padding-top: 0.25%;
+  text-align: center;
+  display: inline-block;
+}
+
+.direction-button:hover {
+  opacity: 0.85;
+  cursor: pointer;
+}
+
+.direction-display {
+  display: flex;
+  justify-content: center;
+}

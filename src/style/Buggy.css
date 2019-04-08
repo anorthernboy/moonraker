@@ -1,0 +1,31 @@
+.outer-grid {
+  padding: 2%;
+  text-align: center;
+}
+
+.buggy-grid-size {
+  width: 350px;
+  padding: 2%;
+  padding-top: 0.25%;
+  text-align: center;
+  display: inline-block;
+}
+
+.buggy-grid-selector {
+  display: flex;
+  justify-content: center;
+  padding: 2%;
+  margin: 0;
+}
+
+.direction-selector {
+  padding: 2%;
+  margin: 0;
+}
+
+.arrow-selector {
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  width: 140px;
+}
