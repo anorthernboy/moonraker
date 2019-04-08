@@ -28,4 +28,4 @@ To get the project up and running locally:
 
 ## Deployed version and links
 
-View a deployed version of the source news here: https://moonraker-app.netlify.com/
+View a deployed version here: https://moonraker-app.netlify.com/
