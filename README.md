@@ -18,6 +18,8 @@ Set the size of the area to explore, set the starting position of each craft, an
 
 - Node.js
 
+### Running the app
+
 To get the project up and running locally:
 
 - Clone this repo and then run the command `npm install` from the root directory. This will install all the necessary dependencies
